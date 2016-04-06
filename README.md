@@ -1,6 +1,6 @@
 Adrian & Piotrek & Olha ofc
 
-square game - klon popularnej gry snake.
+square game - klon popularnej gry snake w Bashu.
 
 Założenia minimalne:
 
@@ -28,5 +28,3 @@ Założenia końcowe:
 - kolory
 - zwiększanie poziomu trudności
 - mnóstwo poziomów o zróżnicowanej trudności
-
-187#420
