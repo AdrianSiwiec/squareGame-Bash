@@ -1,3 +1,6 @@
+A siple bash game written for Programmers' Toolkit course.
+To open run run.sh in Bash (beware of loud music)
+
 Adrian & Piotrek & Olha ofc
 
 square game - klon popularnej gry snake w Bashu.
